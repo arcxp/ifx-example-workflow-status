@@ -1,4 +1,4 @@
-## _*Disclaimer:* Recipes are reference implementations intended to help developers get started more quickly, but are not guaranteed to cover all scenarios nor are they supported by Arc XP. They are are provided “as is” and Arc XP is not responsible for it after you begin using it. Recipes may be updated to incorporate best practices or new solutions at the sole discretion of Arc XP._
+### _*Disclaimer:* Recipes are reference implementations intended to help developers get started more quickly, but are not guaranteed to cover all scenarios nor are they supported by Arc XP. They are are provided “as is” and Arc XP is not responsible for it after you begin using it. Recipes may be updated to incorporate best practices or new solutions at the sole discretion of Arc XP._
 
 # Description
 In this recipe we will be automatically changing a story's workflow status when it is first published. You are welcome to change this logic to do whatever you like, such as update workflow status on all story updates.
