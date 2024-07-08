@@ -6,7 +6,9 @@ Reiterated from license above, all code in this example is free to use, and as s
 
 
 # Description
-In this recipe we will be automatically changing a story's workflow status when it is first published. You are welcome to change this logic to do whatever you like, such as update workflow status on all story updates.
+In this example code we will listen for the `story:first-publish` event within our code and then automate changing the story's workflow status so that editors do not have to remember to complete this step. You are welcome to change this logic to do whatever you like, such as update workflow status on all story updates rather than just first publish. Keep in mind with sample code you will likely always have to make *some* changes.
+
+This example code can also be used as a starting point for other behaviors. With some modification, you can manage data on any ANS field(s).
 
 # Instructions
 
